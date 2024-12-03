@@ -1,11 +1,11 @@
 # Sbom_scanner
 
 # STEP 1
-sudo apt update/
+sudo apt update /n
 sudo apt install python3 python3-pip -y
 
 # STEP 2
-git clone [<repository_url>](https://github.com/rishavand1/Sbom_scanner.git)/
+git clone https://github.com/rishavand1/Sbom_scanner.git
 cd sbom-scanner
 
 # STEP 3
