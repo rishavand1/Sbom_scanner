@@ -1,7 +1,7 @@
 # Sbom_scanner
 
 # STEP 1
-sudo apt update< br /> 
+sudo apt update<br /> 
 sudo apt install python3 python3-pip -y
 
 # STEP 2
