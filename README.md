@@ -9,7 +9,7 @@ git clone https://github.com/rishavand1/Sbom_scanner.git<br />
 cd Sbom-scanner
 
 # STEP 3
-pip3 install -r requirements.txt
+pip3 install -r requirement.txt
 
 # STEP 4
 python3 sbom_scanner.py /path/to/sbom_file.json
